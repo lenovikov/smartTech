@@ -1,0 +1,766 @@
+
+{
+	"products": [
+		{
+			"id": 0,
+			"category_path": "headphones",
+			"category_picture": "headphones_preview.png",
+			"category_title": "Наушники",
+			"fillters": [
+				{
+					"title": "Производитель",
+					"items": [
+						"AMD",
+						"INTEL"
+					],
+					"value": [
+						"amd",
+						"intel"
+					]
+				},
+				{
+					"title": "Линейка",
+					"items": [
+						"Intel core i3",
+						"Intel core i5",
+						"Intel core i7",
+						"Intel core i9",
+						"AMD Ryzen 3",
+						"AMD Ryzen 5",
+						"AMD Ryzen 7",
+						"AMD Ryzen 9"
+					],
+					"value": [
+						"i3",
+						"i5",
+						"i7",
+						"i9",
+						"r3",
+						"r5",
+						"r7",
+						"r9"
+					]
+				},
+				{
+					"title": "Сокет",
+					"items": [
+						"LGA1155",
+						"LGA1151",
+						"LGA1151 v2",
+						"AM4"
+					],
+					"value": [
+						"lga1155",
+						"lga1151",
+						"lga1151v2",
+						"am4"
+					]
+				},
+				{
+					"title": "Колличество ядер",
+					"items": [
+						"2",
+						"4",
+						"6",
+						"8",
+						"12"
+					],
+					"value": [
+						2,
+						4,
+						6,
+						8,
+						12
+					]
+				}
+			],
+			"items": [
+				{
+					"id": 0,
+					"title": "Apple AirPods 2",
+					"category": "headphones",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": [""],
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						},{
+							"paragraph_title": "Характеристика",
+							"params": [
+								{"title":"Размеры и вес (кейса с наушниками) ","description":"Длина: 53,5 мм,Ширина: 44,3 мм,Толщина: 21,3 мм, Вес: 38,2 г"},{"title":"Зарядный футляр","description":"Поддерживается зарядка через порт Lightning АккумуляторAirPods: До 5 часов прослушивания без зарядки; до 3 часов без зарядки AirPods с зарядным футляром:Более 24 часов прослушивания аудио до 18 часов разговора; 15 минут зарядки в футляре обеспечивают до 3 часов прослушивания или до 2 часов разговора."}
+							]
+						},{
+							"paragraph_title": "Управление",
+							"params": [
+								"Нажмите дважды, чтобы просмотреть, перейти к следующему треку или ответить на вызов"
+							]
+						}
+					],
+					"picture":["airpods2_1.JPG","airpods2_2.JPG","airpods2_3.JPG","airpods2_4.JPG","airpods2_5.JPG"],
+					"code": "1",
+					"price": 100
+				},
+				{
+					"id": 1,
+					"title": "Apple AirPods 3",
+					"category": "headphones",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": [""],
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":["airpods3_1.JPG","airpods3_2.JPG","airpods3_3.JPG","airpods3_4.JPG","airpods3_5.JPG"],
+					"code": "1",
+					"price": 120
+				},
+				{
+					"id": 2,
+					"title": "Apple AirPods Pro (без шумоподавления)",
+					"category": "headphones",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": [""],
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":["airpodsPro2_1","airpodsPro2_2","airpodsPro2_3","airpodsPro2_4","airpodsPro2_5","airpodsPro2_6","airpodsPro2_7","airpodsPro2_8"],
+					"price": 110
+				},
+				{
+					"id": 3,
+					"title": "Apple AirPods Pro (c шумоподавления)",
+					"category": "headphones",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": [""],
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":["airpodsPro2_1","airpodsPro2_2","airpodsPro2_3","airpodsPro2_4","airpodsPro2_5","airpodsPro2_6","airpodsPro2_7","airpodsPro2_8"],
+					"price": 130
+				},
+				{
+					"id": 3,
+					"title": "Apple AirPods Pro 2 ",
+					"category": "headphones",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": [""],
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":["airpodsPro2_1","airpodsPro2_2","airpodsPro2_3","airpodsPro2_4","airpodsPro2_5","airpodsPro2_6","airpodsPro2_7","airpodsPro2_8"],
+					"code": "1",
+					"price": 140
+				}
+			]
+		},
+		{
+			"id": 1,
+			"category_path": "watch",
+			"category_picture": "watch_preview.png",
+			"category_title": "Часы",
+			"fillters": [
+				{
+					"title": "Производители",
+					"items": [
+						"ASUS",
+						"GIGABYTE",
+						"ASSROCK",
+						"MSI"
+					],
+					"value": [
+						"asus",
+						"gigabyte",
+						"assrock",
+						"msi"
+					]
+				}
+			],
+			"items": [{
+					"id": 0,
+					"title": "Часы Watch Series 8 (Золотой)",
+					"category": "watch",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": "watch-gold.png",
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":[""],
+					"code": "1",
+					"price": 140
+				},{
+					"id": 1,
+					"title": "Часы Watch Series 8 (серый)",
+					"category": "watch",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": "watch-gold.png",
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":[""],
+					"code": "1",
+					"price": 140
+				},{
+					"id": 2,
+					"title": "Часы Watch Series 8 (черный)",
+					"category": "watch",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": "watch-gold.png",
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":[""],
+					"code": "1",
+					"price": 140
+				},{
+					"id": 2,
+					"title": "Часы Watch Series 8 (розовый)",
+					"category": "watch",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": "watch-gold.png",
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":[""],
+					"code": "1",
+					"price": 140
+				},{
+					"id": 3,
+					"title": "Часы Watch Ultra (Черный)",
+					"category": "watch",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": "watch-gold.png",
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":[""],
+					"code": "1",
+					"price": 150
+				},{
+					"id": 3,
+					"title": "Часы Watch Ultra (серый)",
+					"category": "watch",
+					"tags": [
+						"intel",
+						"i3",
+						"lga1200",
+						"4"
+					],
+					"src": "watch-gold.png",
+					"description": [
+						{
+							"paragraph_title": "Описание",
+							"params": [
+								"Наушники имеют максимальную идентичность с оригиналом.Комплектация: наушники в кейсе, инструкция, кабель USB-C to Lightning, инструкция на русском языке, коробка.","- Гарантия на товар 222 дня;- Покупая набор 2-х единиц товара из нашего ассортимента, то действует скидка 25 BYN"
+							]
+						}
+					],
+					"picture":[""],
+					"code": "1",
+					"price": 150
+				}
+				]
+		},
+		{
+			"id": 2,
+			"category_path": "dyson",
+			"category_picture": "dyson_preview.png",
+			"category_title": "Продукция Dyson",
+			"fillters": [
+				{
+					"title": "Производители",
+					"items": [
+						"ASUS",
+						"GIGABYTE",
+						"ASSROCK",
+						"MSI"
+					],
+					"value": [
+						"asus",
+						"gigabyte",
+						"assrock",
+						"msi"
+					]
+				},
+				{
+					"title": "Производитель процессора",
+					"items": [
+						"AMD",
+						"INTEL"
+					],
+					"value": [
+						"amd",
+						"intel"
+					]
+				},
+				{
+					"title": "Сокет",
+					"items": [
+						"LGA1155",
+						"LGA1151",
+						"LGA1151 v2",
+						"AM4",
+						"LGA1200"
+					],
+					"value": [
+						"lga1155",
+						"lga1151",
+						"lga1151v2",
+						"am4",
+						"lga1200"
+					]
+				},
+				{
+					"title": "Тип памяти",
+					"items": [
+						"DDR3",
+						"DDR4"
+					],
+					"value": [
+						"ddr3",
+						"ddr4"
+					]
+				},
+				{
+					"title": "Количество слотов памяти",
+					"items": [
+						"2",
+						"4"
+					],
+					"value": [
+						2,
+						4
+					]
+				},
+				{
+					"title": "Название чипсета",
+					"items": [
+						"AMD B350",
+						"AMD B450",
+						"AMD B550",
+						"Intel B360",
+						"Intel B460",
+						"Intel B560",
+						"Intel Z370",
+						"Intel Z390",
+						"Intel Z470",
+						"Intel Z490"
+					],
+					"value": [
+						"b350",
+						"b450",
+						"b550",
+						"b360",
+						"b460",
+						"b560",
+						"z370",
+						"z390",
+						"z470",
+						"z490"
+					]
+				}
+			],
+			"items": []
+		},
+		{
+			"id": 3,
+			"category_path": "charge_block",
+			"category_picture": "block_preview.png",
+			"category_title": "Блок питания",
+			"fillters": [
+				{
+					"title": "Производители",
+					"items": [
+						"ASUS",
+						"GIGABYTE",
+						"ASSROCK",
+						"MSI"
+					],
+					"value": [
+						"asus",
+						"gigabyte",
+						"assrock",
+						"msi"
+					]
+				},
+				{
+					"title": "Производитель процессора",
+					"items": [
+						"AMD",
+						"INTEL"
+					],
+					"value": [
+						"amd",
+						"intel"
+					]
+				},
+				{
+					"title": "Сокет",
+					"items": [
+						"LGA1155",
+						"LGA1151",
+						"LGA1151 v2",
+						"AM4",
+						"LGA1200"
+					],
+					"value": [
+						"lga1155",
+						"lga1151",
+						"lga1151v2",
+						"am4",
+						"lga1200"
+					]
+				},
+				{
+					"title": "Тип памяти",
+					"items": [
+						"DDR3",
+						"DDR4"
+					],
+					"value": [
+						"ddr3",
+						"ddr4"
+					]
+				},
+				{
+					"title": "Количество слотов памяти",
+					"items": [
+						"2",
+						"4"
+					],
+					"value": [
+						2,
+						4
+					]
+				},
+				{
+					"title": "Название чипсета",
+					"items": [
+						"AMD B350",
+						"AMD B450",
+						"AMD B550",
+						"Intel B360",
+						"Intel B460",
+						"Intel B560",
+						"Intel Z370",
+						"Intel Z390",
+						"Intel Z470",
+						"Intel Z490"
+					],
+					"value": [
+						"b350",
+						"b450",
+						"b550",
+						"b360",
+						"b460",
+						"b560",
+						"z370",
+						"z390",
+						"z470",
+						"z490"
+					]
+				}
+			],
+			"items": []
+		},
+		{
+			"id": 4,
+			"category_path": "accessories",
+			"category_picture": "accesuar_preview.png",
+			"category_title": "Аксессуары",
+			"fillters": [
+				{
+					"title": "Производители",
+					"items": [
+						"ASUS",
+						"GIGABYTE",
+						"ASSROCK",
+						"MSI"
+					],
+					"value": [
+						"asus",
+						"gigabyte",
+						"assrock",
+						"msi"
+					]
+				},
+				{
+					"title": "Производитель процессора",
+					"items": [
+						"AMD",
+						"INTEL"
+					],
+					"value": [
+						"amd",
+						"intel"
+					]
+				},
+				{
+					"title": "Сокет",
+					"items": [
+						"LGA1155",
+						"LGA1151",
+						"LGA1151 v2",
+						"AM4",
+						"LGA1200"
+					],
+					"value": [
+						"lga1155",
+						"lga1151",
+						"lga1151v2",
+						"am4",
+						"lga1200"
+					]
+				},
+				{
+					"title": "Тип памяти",
+					"items": [
+						"DDR3",
+						"DDR4"
+					],
+					"value": [
+						"ddr3",
+						"ddr4"
+					]
+				},
+				{
+					"title": "Количество слотов памяти",
+					"items": [
+						"2",
+						"4"
+					],
+					"value": [
+						2,
+						4
+					]
+				},
+				{
+					"title": "Название чипсета",
+					"items": [
+						"AMD B350",
+						"AMD B450",
+						"AMD B550",
+						"Intel B360",
+						"Intel B460",
+						"Intel B560",
+						"Intel Z370",
+						"Intel Z390",
+						"Intel Z470",
+						"Intel Z490"
+					],
+					"value": [
+						"b350",
+						"b450",
+						"b550",
+						"b360",
+						"b460",
+						"b560",
+						"z370",
+						"z390",
+						"z470",
+						"z490"
+					]
+				}
+			],
+			"items": []
+		},{
+			"id": 5,
+			"category_path": "poverbank",
+			"category_picture": "poverbank_preview.png",
+			"category_title": "Аксессуары",
+			"fillters": [
+				{
+					"title": "Производители",
+					"items": [
+						"ASUS",
+						"GIGABYTE",
+						"ASSROCK",
+						"MSI"
+					],
+					"value": [
+						"asus",
+						"gigabyte",
+						"assrock",
+						"msi"
+					]
+				},
+				{
+					"title": "Производитель процессора",
+					"items": [
+						"AMD",
+						"INTEL"
+					],
+					"value": [
+						"amd",
+						"intel"
+					]
+				},
+				{
+					"title": "Сокет",
+					"items": [
+						"LGA1155",
+						"LGA1151",
+						"LGA1151 v2",
+						"AM4",
+						"LGA1200"
+					],
+					"value": [
+						"lga1155",
+						"lga1151",
+						"lga1151v2",
+						"am4",
+						"lga1200"
+					]
+				},
+				{
+					"title": "Тип памяти",
+					"items": [
+						"DDR3",
+						"DDR4"
+					],
+					"value": [
+						"ddr3",
+						"ddr4"
+					]
+				},
+				{
+					"title": "Количество слотов памяти",
+					"items": [
+						"2",
+						"4"
+					],
+					"value": [
+						2,
+						4
+					]
+				},
+				{
+					"title": "Название чипсета",
+					"items": [
+						"AMD B350",
+						"AMD B450",
+						"AMD B550",
+						"Intel B360",
+						"Intel B460",
+						"Intel B560",
+						"Intel Z370",
+						"Intel Z390",
+						"Intel Z470",
+						"Intel Z490"
+					],
+					"value": [
+						"b350",
+						"b450",
+						"b550",
+						"b360",
+						"b460",
+						"b560",
+						"z370",
+						"z390",
+						"z470",
+						"z490"
+					]
+				}
+			],
+			"items": []
+		}
+		
+	
+	]
+}
